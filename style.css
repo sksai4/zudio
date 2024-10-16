@@ -1,0 +1,51 @@
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navigation-bar{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+    list-style: none;
+    font-size: 20px;
+    
+}.heading{
+    
+    float: right;
+     
+}
+.zudio-logo{
+    margin: 15px;
+    float: left;
+top: 20%;
+
+}
+a{
+    margin: 0px 20px;
+}
+.yellow{
+    position: absolute;
+    left: 91px;
+    top: 258px;
+    font-size: 21px;
+
+}
+
+.footerwrd-1{
+    
+    color: white;
+  padding: 0px;
+    float: left;
+    font-size: 18px;
+}
+.footerwrd-2{
+    color: white;
+    display: flex;
+  justify-content: right;
+  padding: 20px;
+}
+.list{
+    color:yellow;
+}
